@@ -30,7 +30,7 @@
 			<key>StealHearts</key>
 			<false/>
 			<key>PlayerOnPlayerBounceThreshold</key>
-			<integer>50</integer>
+			<integer>55</integer>
 			<key>PlayerOnPlayerImpact</key>
 			<integer>150</integer>
 			<key>RespawnFollowsPlayerX</key>
