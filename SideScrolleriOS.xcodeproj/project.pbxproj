@@ -59,6 +59,8 @@
 		0AD199391C163F4700EDB418 /* Level1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0AD199361C163F4700EDB418 /* Level1.sks */; };
 		0AD1993A1C163F4700EDB418 /* VersusLevel1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0AD199371C163F4700EDB418 /* VersusLevel1.sks */; };
 		0AE416D91C482E0E00ADBDE9 /* SecretLevel1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0AE416D81C482E0E00ADBDE9 /* SecretLevel1.sks */; };
+		92E29CEA1C9B099C000FD941 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 92E29CE81C9B099C000FD941 /* MyParticle.sks */; };
+		92E29CEB1C9B099C000FD941 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 92E29CE91C9B099C000FD941 /* spark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -116,6 +118,8 @@
 		0AD199361C163F4700EDB418 /* Level1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level1.sks; sourceTree = "<group>"; };
 		0AD199371C163F4700EDB418 /* VersusLevel1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = VersusLevel1.sks; sourceTree = "<group>"; };
 		0AE416D81C482E0E00ADBDE9 /* SecretLevel1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SecretLevel1.sks; sourceTree = "<group>"; };
+		92E29CE81C9B099C000FD941 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
+		92E29CE91C9B099C000FD941 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +182,8 @@
 				0AD1992E1C163F1100EDB418 /* Player1.atlas */,
 				0AD1992F1C163F1100EDB418 /* Player2.atlas */,
 				0A4926D01C1213F5003F145F /* Explode.atlas */,
+				92E29CE81C9B099C000FD941 /* MyParticle.sks */,
+				92E29CE91C9B099C000FD941 /* spark.png */,
 			);
 			path = SideScrolleriOS;
 			sourceTree = "<group>";
@@ -330,6 +336,7 @@
 				0AD199321C163F1100EDB418 /* Player2.atlas in Resources */,
 				0AD199391C163F4700EDB418 /* Level1.sks in Resources */,
 				0A4927591C1216C8003F145F /* Select.caf in Resources */,
+				92E29CEB1C9B099C000FD941 /* spark.png in Resources */,
 				0AD1992C1C163EC100EDB418 /* PlayerFire.caf in Resources */,
 				0A4926BC1C12120B003F145F /* LaunchScreen.storyboard in Resources */,
 				0AD199341C163F2A00EDB418 /* Game.xcassets in Resources */,
@@ -349,6 +356,7 @@
 				0A5971611C172D89000CE1C7 /* Home.sks in Resources */,
 				0AE416D91C482E0E00ADBDE9 /* SecretLevel1.sks in Resources */,
 				0A8DEF0C1C1A360200FCACD6 /* Explosion.caf in Resources */,
+				92E29CEA1C9B099C000FD941 /* MyParticle.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
